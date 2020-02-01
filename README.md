@@ -1,5 +1,5 @@
 # Surf-WebSite
 
 
-live version:
+Live Version:
 https://almarcysiak.github.io/Surf-WebSite/
